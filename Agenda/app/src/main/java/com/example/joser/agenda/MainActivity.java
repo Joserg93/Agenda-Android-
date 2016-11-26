@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
     //variable tipo context para la base de datos
     final Context context = this;
     /**
-     * metodo onCreate del activity principa
+     * metodo onCreate del activity principal
      * @param savedInstanceState
      */
     @Override
