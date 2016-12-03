@@ -16,7 +16,7 @@ import java.util.ArrayList;
  * Created by joser on 16/10/2016.
  */
 public class MainActivity extends AppCompatActivity {
-    //instancia de la variable de conexion al a base de datos
+    //instancia de la variable de conexion al a base de datos SQlite
     public static DBNotesDataSource db;
     //variable array-list de tipo note
     ArrayList<Note> note;
